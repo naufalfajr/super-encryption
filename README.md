@@ -1,5 +1,5 @@
 # Super Encryption
-Super encryption is an encryption that combine cipher subtitution and cipher transposition. This repo contain 2 ciphers.
+Super encryption is a combined encryption from cipher subtitution and cipher transposition. This repo contain 2 ciphers.
 
 The main program named [super.py](../../blob/main/super.py)
 
